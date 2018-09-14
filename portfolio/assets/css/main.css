@@ -4161,17 +4161,17 @@ input, select, textarea {
 	@media screen and (max-width: 700px) {
 
 		.skills-logo{
-			height: 65px;
-			width: 55px;
+			height: 60px;
+			width: 50px;
 		}
 
 		.skills-text{
-			font-size:1.7vh;
+			font-size:1.5vh;
 			white-space: nowrap;
 		}
 
-		.skills-row{
-			margin-left: 20px;
+		.skills-wrapper{
+			margin-right: 20px;
 		}
 
 		.gearhub-logo{
