@@ -4161,8 +4161,8 @@ input, select, textarea {
 	@media screen and (max-width: 700px) {
 
 		.skills-logo{
-			height: 75px;
-			width: 65px;
+			height: 65px;
+			width: 55px;
 		}
 
 		.skills-text{
