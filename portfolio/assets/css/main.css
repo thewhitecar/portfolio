@@ -4166,12 +4166,20 @@ input, select, textarea {
 	}
 
 	.logo{
-		height: 30vh;
-		width: auto;
+		width: 30vw;
+		height: auto;
 	}
 
 	.spacer{
 		width: 250px;
+	}
+
+	.balance-title{
+		font-family: 'Montserrat', sans-serif !important;
+		text-transform: none !important;
+		font-size: 20vh !important;
+		margin: 0 0 0 0 !important;
+		text-shadow: 2px 2px #000000 !important;
 	}
 
 
@@ -4198,5 +4206,22 @@ input, select, textarea {
 
 		.vegout-title{
 			font-size: 10vh !important;
+		}
+
+		.logo{
+			width: 20vw;
+		}
+
+		.balance-title{
+			font-size: 5vh !important;
+		}
+
+		.spacer{
+			width: 15px !important;
+		}
+
+		.balance-logo-wrapper{
+			margin-top: 0px !important;
+			margin-bottom: 30px !important;
 		}
 	}
