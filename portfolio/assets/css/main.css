@@ -4158,6 +4158,23 @@ input, select, textarea {
 		text-shadow: 2px 2px #000000 !important;
 	}
 
+	.balance-logo-wrapper{
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.logo{
+		height: 30vh;
+		width: auto;
+	}
+
+	.spacer{
+		width: 250px;
+	}
+
+
 	@media screen and (max-width: 700px) {
 
 		.skills-logo{
